@@ -1,2 +1,22 @@
-department_id,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21
-department,frozen,other,bakery,produce,alcohol,international,beverages,pets,dry goods pasta,bulk,personal care,meat seafood,pantry,breakfast,canned goods,dairy eggs,household,babies,snacks,deli,missing
+department_id,department
+1,frozen
+2,other
+3,bakery
+4,produce
+5,alcohol
+6,international
+7,beverages
+8,pets
+9,dry goods pasta
+10,bulk
+11,personal care
+12,meat seafood
+13,pantry
+14,breakfast
+15,canned goods
+16,dairy eggs
+17,household
+18,babies
+19,snacks
+20,deli
+21,missing
