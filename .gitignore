@@ -1,6 +1,11 @@
 # custom ignores
 data/raw/*.csv
 data/processed/*.csv
+data/raw/*.parquet
+data/processed/*.parquet
+data/raw/*.zip
+
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
